@@ -12,11 +12,4 @@
   },
   "upload_source_maps": true
 }
-{
-  "routes": [
-    {
-      "pattern": "toddstech.co.uk",
-      "custom_domain": true
-    }
-  ]
-}
+
